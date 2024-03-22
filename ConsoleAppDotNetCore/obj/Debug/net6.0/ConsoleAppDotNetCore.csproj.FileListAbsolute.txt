@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\bin\Debug\net6.0\ConsoleAppDotNetCore.exe
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\bin\Debug\net6.0\ConsoleAppDotNetCore.deps.json
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\bin\Debug\net6.0\ConsoleAppDotNetCore.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\bin\Debug\net6.0\ConsoleAppDotNetCore.dll
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\bin\Debug\net6.0\ConsoleAppDotNetCore.pdb
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.dll
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\refint\ConsoleAppDotNetCore.dll
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.pdb
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ConsoleAppDotNetCore.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\ConsoleAppDotNetCore\obj\Debug\net6.0\ref\ConsoleAppDotNetCore.dll

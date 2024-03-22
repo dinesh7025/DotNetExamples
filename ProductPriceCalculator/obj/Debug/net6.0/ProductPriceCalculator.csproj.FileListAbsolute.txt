@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\bin\Debug\net6.0\ProductPriceCalculator.exe
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\bin\Debug\net6.0\ProductPriceCalculator.deps.json
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\bin\Debug\net6.0\ProductPriceCalculator.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\bin\Debug\net6.0\ProductPriceCalculator.dll
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\bin\Debug\net6.0\ProductPriceCalculator.pdb
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.dll
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\refint\ProductPriceCalculator.dll
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.pdb
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ProductPriceCalculator.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\ProductPriceCalculator\obj\Debug\net6.0\ref\ProductPriceCalculator.dll

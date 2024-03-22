@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\bin\Debug\net6.0\LeapYearPgm.exe
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\bin\Debug\net6.0\LeapYearPgm.deps.json
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\bin\Debug\net6.0\LeapYearPgm.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\bin\Debug\net6.0\LeapYearPgm.dll
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\bin\Debug\net6.0\LeapYearPgm.pdb
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.dll
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\refint\LeapYearPgm.dll
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.pdb
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\LeapYearPgm.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\LeapYearPgm\obj\Debug\net6.0\ref\LeapYearPgm.dll

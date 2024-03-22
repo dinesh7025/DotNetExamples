@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\Structure_example\bin\Debug\net6.0\Structure_example.exe
+D:\C# Training(.NET)\DotNetExamples\Structure_example\bin\Debug\net6.0\Structure_example.deps.json
+D:\C# Training(.NET)\DotNetExamples\Structure_example\bin\Debug\net6.0\Structure_example.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\Structure_example\bin\Debug\net6.0\Structure_example.dll
+D:\C# Training(.NET)\DotNetExamples\Structure_example\bin\Debug\net6.0\Structure_example.pdb
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.dll
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\refint\Structure_example.dll
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.pdb
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\Structure_example.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\Structure_example\obj\Debug\net6.0\ref\Structure_example.dll

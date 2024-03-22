@@ -1,0 +1,13 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vs/
+
+# Ignore build output and other generated files
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nuget/
+packages/
+*.nupkg

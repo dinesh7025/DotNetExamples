@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\String_operations.exe
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\String_operations.deps.json
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\String_operations.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\String_operations.dll
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\String_operations.pdb
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.dll
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\refint\String_operations.dll
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.pdb
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\String_operations.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\ref\String_operations.dll

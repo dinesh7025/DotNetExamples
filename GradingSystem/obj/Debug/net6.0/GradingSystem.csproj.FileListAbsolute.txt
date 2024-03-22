@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\bin\Debug\net6.0\GradingSystem.exe
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\bin\Debug\net6.0\GradingSystem.deps.json
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\bin\Debug\net6.0\GradingSystem.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\bin\Debug\net6.0\GradingSystem.dll
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\bin\Debug\net6.0\GradingSystem.pdb
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.dll
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\refint\GradingSystem.dll
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.pdb
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\GradingSystem.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\GradingSystem\obj\Debug\net6.0\ref\GradingSystem.dll

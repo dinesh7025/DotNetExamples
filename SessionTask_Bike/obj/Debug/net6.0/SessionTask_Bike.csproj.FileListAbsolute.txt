@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\bin\Debug\net6.0\SessionTask_Bike.exe
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\bin\Debug\net6.0\SessionTask_Bike.deps.json
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\bin\Debug\net6.0\SessionTask_Bike.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\bin\Debug\net6.0\SessionTask_Bike.dll
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\bin\Debug\net6.0\SessionTask_Bike.pdb
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.dll
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\refint\SessionTask_Bike.dll
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.pdb
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\SessionTask_Bike.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\SessionTask_Bike\obj\Debug\net6.0\ref\SessionTask_Bike.dll

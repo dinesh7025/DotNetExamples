@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\bin\Debug\net6.0\Classes_Example.exe
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\bin\Debug\net6.0\Classes_Example.deps.json
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\bin\Debug\net6.0\Classes_Example.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\bin\Debug\net6.0\Classes_Example.dll
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\bin\Debug\net6.0\Classes_Example.pdb
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.dll
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\refint\Classes_Example.dll
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.pdb
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\Classes_Example.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\Classes_Example\obj\Debug\net6.0\ref\Classes_Example.dll

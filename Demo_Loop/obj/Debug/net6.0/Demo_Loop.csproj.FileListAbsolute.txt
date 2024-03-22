@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\bin\Debug\net6.0\Demo_Loop.exe
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\bin\Debug\net6.0\Demo_Loop.deps.json
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\bin\Debug\net6.0\Demo_Loop.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\bin\Debug\net6.0\Demo_Loop.dll
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\bin\Debug\net6.0\Demo_Loop.pdb
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.dll
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\refint\Demo_Loop.dll
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.pdb
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\Demo_Loop.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\Demo_Loop\obj\Debug\net6.0\ref\Demo_Loop.dll

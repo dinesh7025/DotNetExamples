@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\BuiltIn_Functions.exe
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\BuiltIn_Functions.deps.json
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\BuiltIn_Functions.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\BuiltIn_Functions.dll
+D:\C# Training(.NET)\DotNetExamples\String_operations\bin\Debug\net6.0\BuiltIn_Functions.pdb
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.dll
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\refint\BuiltIn_Functions.dll
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.pdb
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\BuiltIn_Functions.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\String_operations\obj\Debug\net6.0\ref\BuiltIn_Functions.dll

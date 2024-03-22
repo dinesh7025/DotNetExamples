@@ -1,0 +1,14 @@
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.AssemblyInfoInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.AssemblyInfo.cs
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.csproj.CoreCompileInputs.cache
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\bin\Debug\net6.0\Exception_Handling.exe
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\bin\Debug\net6.0\Exception_Handling.deps.json
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\bin\Debug\net6.0\Exception_Handling.runtimeconfig.json
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\bin\Debug\net6.0\Exception_Handling.dll
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\bin\Debug\net6.0\Exception_Handling.pdb
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.dll
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\refint\Exception_Handling.dll
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.pdb
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\Exception_Handling.genruntimeconfig.cache
+D:\C# Training(.NET)\DotNetExamples\Exception_Handling\obj\Debug\net6.0\ref\Exception_Handling.dll
